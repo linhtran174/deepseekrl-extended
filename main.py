@@ -6,8 +6,6 @@ import json
 import torch
 import argparse
 from tqdm import tqdm
-import soundfile as sf
-from typing import Optional
 from shutil import copyfile
 from collections import defaultdict
 from qwen_vl_utils import process_vision_info
