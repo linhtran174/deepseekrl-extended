@@ -1,7 +1,7 @@
 ## Dependencies
 - `pip install -r requirements.txt`
 - Install latest transformer package from source (to include Qwen2_5_VLForConditionalGeneration)
-pip install git+https://github.com/huggingface/transformers accelerate
+`pip install git+https://github.com/huggingface/transformers accelerate`
 
 ## Run command
 python main.py     \
